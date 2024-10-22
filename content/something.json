@@ -1,5 +1,11 @@
 {
-  "hi": "Hello",
-  "welcome": "Welcome",
-  "great": "Great"
+  "login": {
+  "header": "Login to {name}",
+  "content": "Log in with your email address and password to access your account.",
+  "email": "Email",
+  "password": "Password",
+  "btn": "Login",
+  "reset_password": "Forgot password?",
+  "create_new_account": "No account yet?"
+}
 }
